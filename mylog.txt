@@ -1,0 +1,6 @@
+show clock
+
+show clock
+*14:15:34.534 BSB Wed Oct 25 2017
+cl-rt-lab_cdi-cisco3945-01#
+cl-rt-lab_cdi-cisco3945-01#

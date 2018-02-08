@@ -1,0 +1,2 @@
+hostname: username: pxssh failed on login.
+could not set shell prompt (received: b": \r\n\r\ncl-rt-lab_cdi-cisco3945-01>unset PROMPT_COMMAND\r\n                            ^\r\n% Invalid input detected at '^' marker.\r\n\r\ncl-rt-lab_cdi-cisco3945-01>PS1='[PEXPECT]\\$ '\r\n                            ^\r\n% Invalid input detected at '^' marker.\r\n\r\ncl-rt-lab_cdi-cisco3945-01>set prompt='[PEXPECT]\\$ '\r\n                               ^\r\n% Invalid input detected at '^' marker.\r\n\r\ncl-rt-lab_cdi-cisco3945-01>", expected: '\\[PEXPECT\\][\\$\\#] ').
