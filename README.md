@@ -1,3 +1,20 @@
 # Login-Any-Thing
 
-O Login Any Thing é uma aplicação capaz de logar em qualquer equipamento de rede(Juniper, Cisco, Extreme, Hp, 3com, Huawei, ...) que suporte acesso via SSH/TELNET e principalmente nos Customer Premises Equipments(CPE)  que significa "equipamento dentro das instalações do cliente", ou seja modems e roteadores.
+Login-Any-Thing is an application capable of login in any network equipment(Juniper, Cisco, Extreme, Hp, 3com, Huawei, ...) that has support by SSH/TELNET and mainly in the Customer Premises Equipments(CPE), in other words modems and routers.
+
+## Installation
+
+Don't need installation
+
+## Usage
+
+```bash
+python loginV3.py
+```
+
+## Authors
+
+* **Matheus Cunha Reis** - *creator* - [GitHub](https://github.com/matheuscr30) ✌
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
