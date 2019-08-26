@@ -1,4 +1,3 @@
-ctbcop lablab@2017#
 root admin
 Admin Admin
 admin admin
